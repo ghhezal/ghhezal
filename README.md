@@ -45,12 +45,12 @@
 
 <hr>
 
+<h3 align="center">⭐Stats⭐</h3>
+
 
 <p align=center>
-  <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=ghhezal&theme=react&border=61dafb&hide_border=true" alt="ghhezal" />
+      <img width=480 src="https://streak-stats.demolab.com/?user=ghhezal&theme=react&border=61dafb&hide_border=true" alt="ghhezal" />
     </a>
-  </div>
 </p>
 
