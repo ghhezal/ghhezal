@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
 <h3 align="center">A passionate AI/ML Engineer from Algeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghhezal" alt="ghhezal" /></a> </p>
-
 - 🌱 I’m currently learning **Deep Learning · LLMs · MLOps · pgvector**
 
 - 👯 I’m looking to collaborate on **Machine Learning & Data Science projects**
