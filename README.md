@@ -1,10 +1,10 @@
 <h1 align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Amine....;Aspiring+AI/ML+Engineer+🤖;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Amine....;Aspiring+ML+Engineer+🤖;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <p>
-  Hi, I'm Ghezal Amine, AI/ML engineer & Software Developer from Algeria
+  Hi, I'm Ghezal Amine, ML engineer & Software Developer from Algeria
   <br><br>
 
   - 🔬 I'm currently studying for my Master at Biskra University, Department of Computer Science
@@ -13,7 +13,7 @@
 
   - 🎓 I graduated from Rachid Reda El-Achouri high school
   
-  - 📚 I’m currently learning **How To Build AI Agents**
+  - 📚 I’m currently learning **Linear Regression**
   
   - 📫 How to reach me **ghezal.aminee@gmail.com**
 </p>
