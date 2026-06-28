@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=ghhezal&repo=github-visitors-badge&countColor=%2333B5FF" />
+   </a>
+</p>
+
 <h1 align="center"> 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Amine....;Aspiring+ML+Engineer+🤖;Nice+to+meet+you!&center=true&size=30">
