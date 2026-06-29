@@ -6,7 +6,7 @@
 
 <h1 align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Amine....;Aspiring+ML+Engineer+🤖;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Amine....;Aspiring+ML+Engineer;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <p>
@@ -19,7 +19,7 @@
 
   - 🎓 I graduated from Rachid Reda El-Achouri high school
   
-  - 📚 I’m currently learning **Linear Regression**
+  - 📚 I’m currently learning **Logistic Regression**
   
   - 📫 How to reach me **ghezal.aminee@gmail.com**
 </p>
