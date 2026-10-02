@@ -6,11 +6,11 @@
 
 <h1 align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Amine....;Aspiring+ML+Engineer;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Amine....;Aspiring+Data+Engineer;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <p>
-  Hi, I'm Ghezal Amine, ML engineer & Software Developer from Algeria
+  Hi, I'm Ghezal Amine, a Software Developer and aspiring Data Engineer from Algeria.
   <br><br>
 
   - 🔬 I'm currently studying for my Master at Biskra University, Department of Computer Science
