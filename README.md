@@ -19,9 +19,7 @@
 
   - 🎓 I graduated from Rachid Reda El-Achouri high school
   
-  - 📚 I’m currently learning **Logistic Regression**
-  
-  - 📫 How to reach me **ghezal.aminee@gmail.com**
+  - 📫 How to reach me **ghhezal@gmail.com**
 </p>
 
 <hr>
