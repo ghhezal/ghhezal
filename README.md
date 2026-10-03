@@ -13,13 +13,17 @@
   Hi, I'm Ghezal Amine, a Software Developer and aspiring Data Engineer from Algeria.
   <br><br>
 
-  - 🔬 I'm currently studying for my Master at Biskra University, Department of Computer Science
+- 🔬 I'm currently pursuing a Master's degree in Computer Science at Biskra University
 
-  - 🎓 I graduated from Biskra University, Department of Computer Science (Licence)
+- 🎓 I graduated from Biskra University, Department of Computer Science, with a Licence degree
 
-  - 🎓 I graduated from Rachid Reda El-Achouri high school
-  
-  - 📫 How to reach me **ghhezal@gmail.com**
+- 🎓 I graduated from Rachid Reda El-Achouri High School
+
+- 💻 I work on software development, data analysis, machine learning, Python, web, mobile projects
+
+- 📊 I'm currently focusing more on Data Engineering and data-related projects
+
+- 📫 How to reach me: **ghhezal@gmail.com**
 </p>
 
 <hr>
@@ -27,24 +31,22 @@
 <h3 align="center">⭐Languages & Tools & Abilities⭐</h3>
 <br>
 <p align="center">
-  <code><img title="C" height="30" src="images/c.svg"></code>
   <code><img title="Python" height="30" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="30" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="30" src="images/problemSolving.png"></code>
+  <code><img title="Java" height="30" src="images/java-original.svg"></code>
+  <code><img title="C" height="30" src="images/c.svg"></code>
   <code><img title="HTML5" height="30" src="images/html5.svg"></code>
   <code><img title="CSS" height="30" src="images/css.svg"></code>
+  <code><img title="Javascript" height="30" src="images/javascript.svg"></code>
   <code><img title="React" height="30" src="images/react-original.svg"></code>
-  <code><img title="Git" height="30" src="images/git-original.svg"></code>
   <code><img title="PostgreSQL" height="30" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="30" src="images/vscode.png"></code>
-  <code><img title="Java" height="30" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="30" src="images/json.svg"></code>
-  <code><img title="Android" height="30" src="images/android.svg"></code>
-  <code><img title="GitHub" height="30" src="images/github.svg"></code>
   <code><img title="MySQL" height="30" src="images/mysql.svg"></code>
+  <code><img title="Problem Solving" height="30" src="images/problemSolving.png"></code>
+  <code><img title="Git" height="30" src="images/git-original.svg"></code>
+  <code><img title="GitHub" height="30" src="images/github.svg"></code>
   <code><img title="Docker" height="30" src="images/docker.svg"></code>
-  <code><img title="aws" height="30" src="images/aws.svg"></code>
-  <code><img title="google cloud" height="30" src="images/google-cloud.svg"></code>
+  <code><img title="Android" height="30" src="images/android.svg"></code>
+  <code><img title="JSON" height="30" src="images/json.svg"></code>
+  <code><img title="Visual Studio Code" height="30" src="images/vscode.png"></code>
 </p>
 
 <hr>
