@@ -38,6 +38,7 @@
   <code><img title="CSS" height="30" src="images/css.svg"></code>
   <code><img title="Javascript" height="30" src="images/javascript.svg"></code>
   <code><img title="React" height="30" src="images/react-original.svg"></code>
+  <code><img title="Next.js" height="30" src="images/nextjs.svg"></code>
   <code><img title="PostgreSQL" height="30" src="images/postgresql.svg"></code>
   <code><img title="MySQL" height="30" src="images/mysql.svg"></code>
   <code><img title="Problem Solving" height="30" src="images/problemSolving.png"></code>
