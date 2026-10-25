@@ -13,7 +13,7 @@
   Hi, I'm Ghezal Amine, a Software Developer and aspiring Data Engineer from Algeria.
   <br><br>
 
-- 🔬 I'm currently pursuing a Master's degree in Computer Science at Biskra University
+- 🔬 I'm currently pursuing a Master's degree in artificial intelligence at Biskra University
 
 - 🎓 I graduated from Biskra University, Department of Computer Science, with a Licence degree
 
