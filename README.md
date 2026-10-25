@@ -52,8 +52,3 @@
 
 <hr>
 
-<h3 align="center">⭐Stats⭐</h3>
-
-
-![ghhezal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghhezal&theme=vue-dark&hide_border=true)  ![ghhezal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghhezal&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
