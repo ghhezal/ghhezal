@@ -55,13 +55,5 @@
 <h3 align="center">⭐Stats⭐</h3>
 
 
-<p align=center>
-  <div align = center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img width=500 src="https://streak-stats.demolab.com/?user=ghhezal&theme=react&border=61dafb&hide_border=true" alt="ghhezal" />
-    </a>
-  </div>
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghhezal&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+![ghhezal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghhezal&theme=vue-dark&hide_border=true)  ![ghhezal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghhezal&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
